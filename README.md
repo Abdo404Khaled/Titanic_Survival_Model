@@ -23,7 +23,7 @@ $ git clone https://github.com/Abdo404Khaled/Titanic_Survival_Model.git
 
 ```bash
 $ unzip titanic.zip
-```bash
+```
 
 3. **Run the Notebook**: Open and run the `Titanic_Survive_Prediction.ipynb` Jupyter Notebook to train the model and generate predictions.
 
